@@ -1,0 +1,47 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+
+#provContainer{
+    background-image: url("https://www.soldbyshannonhi.com/wp-content/uploads/2017/10/Plant-a-Tree-Chinese-Proverb.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    ;
+    border: solid blue;
+    /* border-radius: 5%; */
+    width: 60%;
+    height: 75vh;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.btnContainer{
+width: 70%;
+height: 10vh;
+display: flex;
+justify-content: space-evenly;
+margin-left: 15%;
+margin-right: 15%;
+
+}
+#provBtn{
+height: 5vh;
+width: 10%;
+font-weight: bold;
+color: green;
+margin-top: 1%;
+
+}
+
+.backgroundBtn{
+    height: 5vh;
+    width: 23%;
+    font-weight: bold;
+    color: green;
+    margin-top: 1%;
+    
+    }
+.provPic{
+    ;
+}
